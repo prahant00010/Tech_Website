@@ -15,7 +15,7 @@ function About() {
             alt="about"
             width={600}
             height={600}
-            className='object-contain'
+            className='w-full h-auto object-contain'
           />
         </div>
 

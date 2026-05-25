@@ -111,7 +111,7 @@ function Feature() {
             alt="feature"
             width={700}
             height={700}
-            className='object-contain'
+            className='w-full h-auto object-contain'
           />
         </div>
 
